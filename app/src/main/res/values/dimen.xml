@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_two">2dp</dimen>
+    <dimen name="margin_three">3dp</dimen>
+    <dimen name="margin_five">5dp</dimen>
+    <dimen name="margin_ten">10dp</dimen>
+    <dimen name="margin_top_text">16.36dp</dimen>
+    <dimen name="margin_top_image">17.45dp</dimen>
+    <dimen name="standard_font_size">13.09sp</dimen>
+</resources>

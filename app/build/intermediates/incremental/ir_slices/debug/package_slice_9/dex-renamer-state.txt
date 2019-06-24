@@ -1,0 +1,4 @@
+#Wed Jun 19 21:14:09 IST 2019
+base.0=/Users/k_amit/Documents/BobbleWorkspace/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bobble-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bobble-Theme-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bobble-Workspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BobbleAndroidIME_SDK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BobbleTheme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BobbleThemeSection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BobbleWorkspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Theme-Module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
+  </component>
+</project>

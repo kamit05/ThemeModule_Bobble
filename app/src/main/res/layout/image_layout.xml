@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="114.91dp"
+    android:layout_height="84.73dp"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_five">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/sdvImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        fresco:placeholderImage="@color/gray_separator"
+        fresco:placeholderImageScaleType="fitXY"
+        fresco:roundedCornerRadius="5.45dp"
+        fresco:roundingBorderColor="#FFEBEBEB"
+        fresco:roundingBorderWidth="1.33dp"
+        />
+
+    <ImageView
+        android:id="@+id/addCustomTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_round_add_24_px"
+        android:visibility="gone"
+        android:paddingBottom="@dimen/margin_ten"
+        />
+
+    <ProgressBar
+        android:id="@+id/themeDownloadProgress"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/deleteTheme"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:src="@mipmap/delete"
+        android:visibility="gone"
+        />
+
+    <ImageView
+        android:id="@+id/themeSelected"
+        android:layout_width="40dp"
+        android:padding="@dimen/margin_three"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:scaleType="fitXY"
+        android:src="@mipmap/selected_icon"
+        />
+</RelativeLayout>

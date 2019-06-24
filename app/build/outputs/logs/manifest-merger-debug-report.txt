@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/1e4b534f79a443f9dfbcfb41cbdeeece/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b350ae2eda90023fb54a2d994f390da4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fd403af8049b6dad354f43c305db9819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/aa6b585f75e6dba6d2dc83e0f1417486/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:jackson-android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b73b18772c0f32985d4db865a7921f44/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5166dc2091a6afb234bc6158955a14e3/AndroidManifest.xml:18:1-27:12
+MERGED from [com.facebook.fresco:fresco:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/45e8f4420e4715d85513ee0656dcf212/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9bfd1fb38bb36573a928f2987141c9eb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/89e0858db3f1b48375ed16c85c7c0cd5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8e38fa0beb2a9a84793561c4644de7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/257c15a4e8b707c5bcaeae1bd49ac1fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/4549ad410f01346ed5acc1b8d7aaff25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/26596faf736939602415c2a4c5c38f6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/c79dedacad09b53ae1f28b3a423b2a2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/09f405f1e27818f14a51a19762b08077/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fa88ecc0d8589e730e31683455f4fb0b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/347220fa07ece4db8f17be1e1df474a2/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2cd656c8ce15aea16f6c6d08e9576c5b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2714a46db52a34425c4d8e17d6638eff/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9cc34a9ec286873b0c6dbf896ccfa317/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8473e3a7c0190c5e8f1330c73ef336e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9610c9d1c4c2a55f148f9fa1f533e437/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5af1ac8c9bbd4b401f34d8930e557eac/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b350ae2eda90023fb54a2d994f390da4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b350ae2eda90023fb54a2d994f390da4/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.bobbletheme.view.ThemeActivity
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:screenOrientation
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:16:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.bobbletheme.view.CustomThemeActivity
+ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml:23:19-59
+uses-sdk
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/1e4b534f79a443f9dfbcfb41cbdeeece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/1e4b534f79a443f9dfbcfb41cbdeeece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b350ae2eda90023fb54a2d994f390da4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b350ae2eda90023fb54a2d994f390da4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fd403af8049b6dad354f43c305db9819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fd403af8049b6dad354f43c305db9819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/aa6b585f75e6dba6d2dc83e0f1417486/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/aa6b585f75e6dba6d2dc83e0f1417486/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:jackson-android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b73b18772c0f32985d4db865a7921f44/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/b73b18772c0f32985d4db865a7921f44/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5166dc2091a6afb234bc6158955a14e3/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:0.3.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5166dc2091a6afb234bc6158955a14e3/AndroidManifest.xml:23:5-25:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/45e8f4420e4715d85513ee0656dcf212/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/45e8f4420e4715d85513ee0656dcf212/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9bfd1fb38bb36573a928f2987141c9eb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9bfd1fb38bb36573a928f2987141c9eb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/89e0858db3f1b48375ed16c85c7c0cd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/89e0858db3f1b48375ed16c85c7c0cd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8e38fa0beb2a9a84793561c4644de7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8e38fa0beb2a9a84793561c4644de7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/257c15a4e8b707c5bcaeae1bd49ac1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/257c15a4e8b707c5bcaeae1bd49ac1fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/4549ad410f01346ed5acc1b8d7aaff25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/4549ad410f01346ed5acc1b8d7aaff25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/26596faf736939602415c2a4c5c38f6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/26596faf736939602415c2a4c5c38f6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/c79dedacad09b53ae1f28b3a423b2a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/c79dedacad09b53ae1f28b3a423b2a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/09f405f1e27818f14a51a19762b08077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/09f405f1e27818f14a51a19762b08077/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fa88ecc0d8589e730e31683455f4fb0b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/fa88ecc0d8589e730e31683455f4fb0b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/347220fa07ece4db8f17be1e1df474a2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/347220fa07ece4db8f17be1e1df474a2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2cd656c8ce15aea16f6c6d08e9576c5b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2cd656c8ce15aea16f6c6d08e9576c5b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2714a46db52a34425c4d8e17d6638eff/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/2714a46db52a34425c4d8e17d6638eff/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9cc34a9ec286873b0c6dbf896ccfa317/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9cc34a9ec286873b0c6dbf896ccfa317/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8473e3a7c0190c5e8f1330c73ef336e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/8473e3a7c0190c5e8f1330c73ef336e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9610c9d1c4c2a55f148f9fa1f533e437/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/9610c9d1c4c2a55f148f9fa1f533e437/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5af1ac8c9bbd4b401f34d8930e557eac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] /Users/k_amit/.gradle/caches/transforms-2/files-2.1/5af1ac8c9bbd4b401f34d8930e557eac/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/k_amit/Documents/BobbleWorkspace/app/src/main/AndroidManifest.xml
